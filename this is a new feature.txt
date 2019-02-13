@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-I am editing this on master look what happen
-=======
-this is the new feature
->>>>>>> 74eb8ac2174b4254e5033690aa2591e5d7e22167
